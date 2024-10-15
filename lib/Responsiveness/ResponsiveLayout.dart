@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
-import 'package:news_globe/Pages/PageViewScreen.dart';
-import 'package:news_globe/Responsiveness/WebApp.dart';
+import 'package:news_globe/Pages/WebApplication/WebApp.dart';
+
+import '../Pages/MobileApplication/PageViewScreen.dart';
 
 class ResponsiveLayout extends StatefulWidget {
   final Widget webApp, mobApp;

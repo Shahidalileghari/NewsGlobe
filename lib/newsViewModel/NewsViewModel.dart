@@ -1,6 +1,6 @@
 import '../Models/NewsCategoryModel.dart';
 import '../Models/NewsChannelHeadlinesModel.dart';
-import 'NewsRepositories.dart';
+import '../NewsRepositories/NewsRepositories.dart';
 
 class NewsViewModel {
   final repo = NewsRepositories();
