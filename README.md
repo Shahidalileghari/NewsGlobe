@@ -1,16 +1,11 @@
-# newsglobe
+# NewsGlobe Introduction:
+NewsGlobe is a semester project built using Flutter, designed to aggregate news from various sources into a personalized, real-time news feed. It offers users the ability to browse and filter news based on categories like politics, technology, entertainment, and more. Key features include a clean, modern UI, dark mode, search functionality, and offline reading capabilities.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features:
+- Real-time news updates from multiple sources
+- Personalized news feed based on user preferences
+- Category filtering (Sports, Politics, Technology, etc.)
+- Search and bookmark functionality
+- Dark mode for better accessibility
+- Cross-platform compatibility (iOS & Android)
+  
