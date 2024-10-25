@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "643993989639",
+    "project_id": "fir-cd391",
+    "storage_bucket": "fir-cd391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643993989639:android:95985aacae188c956df0a2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPakKZiqg6FeZY03i8tk70fpG2MK1oEV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643993989639:android:b132e4e441fba0456df0a2",
+        "android_client_info": {
+          "package_name": "com.shahid.firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPakKZiqg6FeZY03i8tk70fpG2MK1oEV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643993989639:android:e737cc26692e41336df0a2",
+        "android_client_info": {
+          "package_name": "com.shahid.newsglobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPakKZiqg6FeZY03i8tk70fpG2MK1oEV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
